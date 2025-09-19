@@ -1,11 +1,12 @@
 # Hi there, I'm Poorvi!
 
-As a Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Analytics**, I’m passionate about building intelligent systems that solve real-world problems.  
-I focus on **end-to-end development** — from data collection and preprocessing to model building, explainability, and deployment.  
+As a Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Analytics**, I’m driven to build intelligent systems that create real-world impact.  
+My focus is on **end-to-end development**, from data collection and preprocessing to model building, explainability, and deployment.  
 
-🔭 I’m currently working on **real-time acoustic signal classification** as an AI/ML Intern at *SciHawk Secure Tech*.  
-🌱 I’m continuously learning about **time-series forecasting, deep learning architectures, and model deployment strategies**.  
-💬 Ask me about **Machine Learning, NLP, Data Analytics, Time-Series Forecasting, Churn Prediction, or Sentiment Analysis**.  
+🔭 I’m currently exploring **real-time data analysis, LLMs, and Generative AI applications**.  
+🌱 I’m continuously learning about **Transformers, advanced NLP techniques, time-series forecasting, and scalable deployment strategies**.  
+💬 Ask me about **Machine Learning, NLP, Transformers, LLMs, Generative AI, Data Analytics, Time-Series Forecasting and ML Models**.  
+
 
 ---
 ## 🛠 Skills
