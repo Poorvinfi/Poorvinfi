@@ -44,10 +44,10 @@ My focus is on **end-to-end development**, from data collection and preprocessin
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Poorvinfi&theme=radical&hide_border=true" alt="Poorvi's GitHub Streak" style="display: inline-block; margin-right: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=Poorvinfi&show_icons=true&theme=radical&hide_rank=true&hide_title=true" alt="Poorvi's GitHub Stats" style="display: inline-block;">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvinfi&layout=compact&theme=radical&hide_progress=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poorvinfi&show_icons=true&theme=radical&hide_rank=true&hide_title=true" alt="Poorvi's GitHub Stats" style="display: inline-block; margin-right: 10px;"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvinfi&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" style="display: inline-block;">
 </div>
+
  
 
   
