@@ -1,4 +1,4 @@
-# Hi there, I'm Poorvi!
+# Hello, I'm Poorvi!
 
 As a Computer Science Engineering student specializing in **Artificial Intelligence, Machine Learning, and Data Analytics**, I’m driven to build intelligent systems that create real-world impact.  
 My focus is on **end-to-end development**, from data collection and preprocessing to model building, explainability, and deployment.  
